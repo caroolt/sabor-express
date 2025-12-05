@@ -274,20 +274,6 @@ Este projeto foi desenvolvido para ensinar:
 - Python 3.10+ (para usar match-case)
 - Sistema Operacional: Windows, Linux ou macOS
 
----
-
-## 👨‍💻 Autor
-
-Projeto educacional - Sabor Express
-
----
-
-## 📄 Licença
-
-Este projeto é de código aberto e livre para uso educacional.
-
----
-
 ## 📚 Referências
 
 - [Python Docs - Try/Except](https://docs.python.org/3/tutorial/errors.html)
