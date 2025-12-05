@@ -268,18 +268,6 @@ Este projeto foi desenvolvido para ensinar:
 5. **Modularização** - Separar código em funções reutilizáveis
 6. **Menu Interativo** - Criar interfaces de usuário responsivas
 
----
-
-## 🚀 Próximas Melhorias (Sugestões)
-
-- 💾 **Persistência**: Salvar dados em arquivo JSON ou banco de dados
-- 🔍 **Busca**: Procurar restaurante por nome ou categoria
-- ⭐ **Rating**: Adicionar sistema de avaliação
-- 📋 **Filtros**: Listar apenas restaurantes ativos
-- 🎨 **Interface Gráfica**: Usar tkinter ou PyQt para GUI
-- 🌐 **API REST**: Criar API com Flask ou FastAPI
-
----
 
 ## 📝 Requisitos
 
@@ -306,7 +294,3 @@ Este projeto é de código aberto e livre para uso educacional.
 - [Python Docs - Loops](https://docs.python.org/3/tutorial/controlflow.html)
 - [Python Docs - Dicionários](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 - [Python Docs - Funções](https://docs.python.org/3/tutorial/controlflow.html#defining-functions)
-
----
-
-**Desenvolvido com ❤️ para aprender Python!**
